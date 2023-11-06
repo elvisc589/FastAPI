@@ -10,3 +10,4 @@ textract
 transformers
 openai
 faiss-cpu
+hypercorn==0.14.4
